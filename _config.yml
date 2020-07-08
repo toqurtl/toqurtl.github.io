@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Inseok Yoon
+title:            toqurtl
 tagline:          'A Jekyll theme'
 description:      'research'
-url:              'https://toqurtl.github/'
+url:              '/'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
