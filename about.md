@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-
+<!-- 
 <p class="message">
  picture
 </p>
@@ -50,4 +50,4 @@ sidebar_link: true
 
 <dl>
 	<dt>Software</dt>
-</dl>
+</dl> -->
