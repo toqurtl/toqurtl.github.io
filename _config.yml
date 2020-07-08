@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Inseok Yoon
 tagline:          'A Jekyll theme'
 description:      'research'
-url:              https://toqurtl.github.io/
+url:              'https://toqurtl.github.io/'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Inseok Yoon'
-  url:            https://inseok.github.io/
+  url:            'https://inseok.github.io/'
 
 paginate:         20
 # paginate_path:    '/page:num'
@@ -34,7 +34,7 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/toqurtl
+  repo:             'https://github.com/toqurtl'
 
 tags:
   # code
